@@ -165,4 +165,4 @@ project-1-customer-segmentation/
 
 ---
 
-*Analysis by [Your Name] | [LinkedIn] | [Portfolio URL]*
+Analysis by Pranesh Yuvaraj | linkedin.com/in/pranesh-yuvaraj | [Portfolio URL]
